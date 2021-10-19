@@ -1,6 +1,5 @@
-# NLW Heat - Mission: Impulse
+﻿# NLW Heat - Mission: Impulse
 
-![GitHub](https://img.shields.io/github/license/Ferreira94/nlw-heat?logo=mit)
 
 > Projeto criado durante o evento Next Level Week Heat da Rocketseat.
 
